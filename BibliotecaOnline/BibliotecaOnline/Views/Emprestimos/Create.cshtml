@@ -1,0 +1,40 @@
+﻿@model BibliotecaOnline.Models.Emprestimo
+
+@{
+    ViewData["Title"] = "Cadastrar Empréstimo";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center">Cadastrar Empréstimo</h2>
+
+    <form asp-action="Create" method="post">
+        <div class="mb-3">
+            <label asp-for="Codigo" class="form-label"></label>
+            <input asp-for="Codigo" class="form-control" />
+            <span asp-validation-for="Codigo" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="DataRetirada" class="form-label"></label>
+            <input asp-for="DataRetirada" type="date" class="form-control" />
+            <span asp-validation-for="DataRetirada" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="DataEntrega" class="form-label"></label>
+            <input asp-for="DataEntrega" type="date" class="form-control" />
+            <span asp-validation-for="DataEntrega" class="text-danger"></span>
+        </div>
+
+        <div class="text-center">
+            <input type="submit" value="Criar" class="btn btn-primary px-5" />
+            <a asp-action="Index" class="btn btn-secondary ms-2">Cancelar</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script src="~/js/validacao-emprestimo.js"></script> 
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

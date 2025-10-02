@@ -1,0 +1,33 @@
+﻿@model BibliotecaOnline.Models.Aluno
+
+@{
+    ViewData["Title"] = "Excluir Aluno";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center text-danger">Excluir Aluno</h2>
+
+    <h5>Você realmente deseja excluir este aluno?</h5>
+
+    <dl class="row">
+        <dt class="col-sm-3">RA</dt>
+        <dd class="col-sm-9">@Model.RA</dd>
+
+        <dt class="col-sm-3">Nome</dt>
+        <dd class="col-sm-9">@Model.Nome</dd>
+
+        <dt class="col-sm-3">Email</dt>
+        <dd class="col-sm-9">@Model.Email</dd>
+
+        <dt class="col-sm-3">Telefone</dt>
+        <dd class="col-sm-9">@Model.Telefone</dd>
+
+        <dt class="col-sm-3">Data de Nascimento</dt>
+        <dd class="col-sm-9">@Model.DataNascimento.ToShortDateString()</dd>
+    </dl>
+
+    <form asp-action="Delete" method="post" class="text-center">
+        <button type="submit" class="btn btn-danger px-5">Excluir</button>
+        <a asp-action="Index" class="btn btn-secondary ms-2">Cancelar</a>
+    </form>
+</div>

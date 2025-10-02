@@ -1,0 +1,33 @@
+﻿@model BibliotecaOnline.Models.Aluno
+
+@{
+    ViewData["Title"] = "Detalhes do Aluno";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center">Detalhes do Aluno</h2>
+
+    <div class="row">
+            <dl class="row">
+                <dt class="col-sm-3">RA</dt>
+                <dd class="col-sm-9">@Model.RA</dd>
+
+                <dt class="col-sm-3">Nome</dt>
+                <dd class="col-sm-9">@Model.Nome</dd>
+
+                <dt class="col-sm-3">Email</dt>
+                <dd class="col-sm-9">@Model.Email</dd>
+
+                <dt class="col-sm-3">Telefone</dt>
+                <dd class="col-sm-9">@Model.Telefone</dd>
+
+                <dt class="col-sm-3">Data de Nascimento</dt>
+                <dd class="col-sm-9">@Model.DataNascimento.ToString("dd/MM/yyyy")</dd>
+            </dl>
+
+            <div class="text-center mt-4">
+                <a asp-action="Edit" asp-route-id="@Model.RA" class="btn btn-primary me-2">Editar</a>
+                <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+            </div>
+    </div>
+</div>

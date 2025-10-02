@@ -1,0 +1,28 @@
+﻿@model BibliotecaOnline.Models.Emprestimo
+
+@{
+    ViewData["Title"] = "Excluir Empréstimo";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center text-danger">Excluir Empréstimo</h2>
+
+    <h5>Você realmente deseja excluir este Empréstimo?</h5>
+
+    <dl class="row">
+        <dt class="col-sm-3">Código</dt>
+        <dd class="col-sm-9">@Model.Codigo</dd>
+
+        <dt class="col-sm-3">Data de Retirada</dt>
+        <dd class="col-sm-9">@Model.DataRetirada.ToString("dd/MM/yyyy")</dd>
+
+        <dt class="col-sm-3">Data de Entrega</dt>
+        <dd class="col-sm-9">@Model.DataEntrega.ToString("dd/MM/yyyy")</dd>
+
+    </dl>
+
+    <form asp-action="Delete" method="post" class="text-center">
+        <button type="submit" class="btn btn-danger px-5">Excluir</button>
+        <a asp-action="Index" class="btn btn-secondary ms-2">Cancelar</a>
+    </form>
+</div>

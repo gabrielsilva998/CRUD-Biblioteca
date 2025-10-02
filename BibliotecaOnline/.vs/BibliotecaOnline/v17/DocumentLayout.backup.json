@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\models\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\models\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\migrations\\20250729202610_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\migrations\\20250729202610_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\wwwroot\\js\\validacao-aluno.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\wwwroot\\js\\validacao-aluno.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\gab\\documents\\crud est\u00E1gio\\bibliotecaonline\\bibliotecaonline\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD78B3B-6068-46EC-A81A-0D3AFEFB6CFD}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaOnline\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T19:51:34.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Views\\Alunos\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Views\\Alunos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Views\\Alunos\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaOnline\\Views\\Alunos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T19:51:22.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\appsettings.json",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\appsettings.json",
+              "RelativeToolTip": "BibliotecaOnline\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T19:48:20.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Models\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Models\\BibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Models\\BibliotecaContext.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Models\\BibliotecaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:47:36.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Controllers\\AlunosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:46:50.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250729202610_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Migrations\\20250729202610_FirstMigration.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Migrations\\20250729202610_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Migrations\\20250729202610_FirstMigration.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Migrations\\20250729202610_FirstMigration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:39:24.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Views\\Alunos\\Create.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Views\\Alunos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Views\\Alunos\\Create.cshtml",
+              "RelativeToolTip": "BibliotecaOnline\\Views\\Alunos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T19:36:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "validacao-aluno.js",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\wwwroot\\js\\validacao-aluno.js",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\wwwroot\\js\\validacao-aluno.js",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\wwwroot\\js\\validacao-aluno.js",
+              "RelativeToolTip": "BibliotecaOnline\\wwwroot\\js\\validacao-aluno.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-01T19:35:44.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Models\\Livro.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:33:19.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Models\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Models\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Models\\Emprestimo.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Models\\Emprestimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:33:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Models\\Aluno.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:28:28.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\Gab\\Documents\\CRUD Est\u00E1gio\\BibliotecaOnline\\BibliotecaOnline\\Program.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:27:59.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
